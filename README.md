@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/your-username/e-commerce-laravel.git
+    git clone https://github.com/ziadadel001/E-commerce.git
     cd e-commerce-laravel
     ```
 
